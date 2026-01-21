@@ -1,0 +1,5 @@
+{
+  "name": "Blood Pressure Tracker - Smart BP",
+  "description": "A comprehensive home blood pressure monitoring application with data recording, trend visualization, CSV export, and AI-powered health insights.",
+  "requestFramePermissions": []
+}
